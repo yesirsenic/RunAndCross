@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UnrealLearningKit.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Projects\UnrealLearningKit\Intermediate\Build\Win64\x64\UnrealLearningKitEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"D:\Unreal Projects\UnrealLearningKit\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealLearningKit\MovingPlatform.gen.cpp.obj"
+"D:\Unreal Projects\UnrealLearningKit\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealLearningKit\UnrealLearningKit.init.gen.cpp.obj"
+"D:\Unreal Projects\UnrealLearningKit\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealLearningKit\MovingPlatform.cpp.obj"
+"D:\Unreal Projects\UnrealLearningKit\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealLearningKit\UnrealLearningKit.cpp.obj"
+"D:\Unreal Projects\UnrealLearningKit\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealLearningKit\PerModuleInline.gen.cpp.obj"
+"D:\Unreal Projects\UnrealLearningKit\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealLearningKit\Default.rc2.res"
+/OUT:"D:\Unreal Projects\UnrealLearningKit\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealLearningKit\UnrealEditor-UnrealLearningKit.lib"

@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\unreallearningkit\\source\\unreallearningkit\\unreallearningkit.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\unreallearningkit\\intermediate\\build\\win64\\x64\\unreallearningkiteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\unreallearningkit\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unreallearningkit\\definitions.unreallearningkit.h",
+            "d:\\unreal projects\\unreallearningkit\\source\\unreallearningkit\\unreallearningkit.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
